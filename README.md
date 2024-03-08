@@ -5,7 +5,7 @@ Aprendendo os comandos do GitHub
 
 <h1>Funcionalidades dos comandos git</h1>
 
-- Git Add`: Move as alterações do diretório de trabalho para a área de staging.
+- `Git Add`: Move as alterações do diretório de trabalho para a área de staging.
 - Git Brach`: Permite criar ambientes de desenvolvimento isolados em um único repositório.
 - Git Checkout`: É a forma de navegar pelas ramificações existentes.
 - Git Clean`: Remove os arquivos não monitorados do diretório de trabalho.
